@@ -23,7 +23,7 @@ Just a readme. To log things I learn.
 	# => :foo
 	```
 	
-- The body of a GET request is semantically meaningless. #http
+- The body of a GET request is semantically meaningless... usually. #http
 	- https://stackoverflow.com/questions/978061/http-get-with-request-body
 
 --
